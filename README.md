@@ -1,16 +1,22 @@
-### Hi there 👋
+##Prazer meu nome é juliano☕<br><br>
+-<i>Apaixonado por tecnologias;💻<br><br></i>
+-<i>Entusiasta de Raciocinio Lógico em  Python💡<br><br></i>
+-<i>Formado em Programador Web,pelo SENAC<br><br></i>
+-<i>Cursando DSM(Desenvolvimento de  Software multiplataforma).🖥️<br><br><i>
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianoalessandro/)
 
-<!--
-**julianoAlessandro/julianoAlessandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Tecnologias  usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoAlessandro&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+![julianoAlessandro GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoAlessandro&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###<b><i>Tecnologias usadas no meu Dia a Dia</i></b><br>
+<img  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><br>
+
+<img  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+
+
+<i>"Se eu vi mais longe,foi por estar sobre ombros de  Gigantes."Isaac  Newton</i>
+
+
