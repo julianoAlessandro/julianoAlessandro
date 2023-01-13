@@ -5,7 +5,7 @@
 
 - Apaixonado por tecnologias 💻
 - Entusiasta de Raciocinio Lógico em Python 💡
-- Formado em Programador Web,pelo SENAC
+- Formado em Programação para Internet pelo SENAC
 - Cursando DSM (Desenvolvimento de  Software multiplataforma) 🖥️
 
 [![Tecnologias Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoAlessandro)](https://github.com/anuraghazra/github-readme-stats)
