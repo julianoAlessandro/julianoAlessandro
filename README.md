@@ -8,7 +8,7 @@
   <p>Atualmente estou desenvolvendo um projeto com colegas de equipe para a construção de um software Robusto para a Fatec, inicialmente o trabalho se 
     encontra desenvolvido  na parte front end ,sendo o desenvolvimento de caputras de dados do usuario para o Banco de dados será neste  semestre.</p>
   <b><h2>EXPERIENCIAS</h2></b>
-   <i> Comecei um estágio na empresa Mindware,aqui da minha cidade em geral os principais serviços desenvolvidos são:</i>
+   <i> Comecei um estágio na empresa Mindware,aqui da minha cidade em geral os principais serviços desenvolvidos são:</i><br>
   <b>Suporte ao usuario, com o auxilio dos colegas de serviço estou aprendendo como resolver os problemas informados pelo usuario, ou seja prestando a manutenção do Software</b><br>
   <b>Manipulação do banco de dados da empresa, recebendo pedidos do cliente para alterar adicionar ou modificar determinado dado</b><br>
   <b>Estou sendo instruido pelo meu Supervisor para desenvovler habilidades com JAVA, através de poder visualizar a esturtura de daods do  Programa desenvolvido e tirar qualquer duvida a respeito do assunto</b><br>
