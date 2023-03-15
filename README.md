@@ -1,18 +1,18 @@
 ##Prazer meu nome é juliano Alessandro dos Santos☕<br><br>
 <p>
- <h3>História</h3>
+ <h3>História 📚</h3>
  Meu contato com a tecnolgoia foi algo recente, no período de 2021 ,quando estava cursando Física na UFSCAR, acabei me deparando 
  com a matéria de Física computacional, no qual acabei estudando um pouco de lógica de Programação e foi a partir desse momento que comecei a
  me afastar do mundo acadêmico e me aproximei mais da tecnolgia,por fim decidi voltar  para a minha cidade natal,itapira.Quando voltei iniciei
- um  curso de programador Web ,pela instituição SENAC,nesse curso de 3 meses de duração acabei aprendendo sobre alguns assuntos sendo eles:
+ um  curso de programador Web ,pela instituição SENAC,nesse curso de 3 meses de duração acabei aprendendo sobre alguns assuntos sendo eles:<br>
  HTML<BR>
  CSS3<BR>
  BANCO DE DADOS RELACIONAL<BR>
  XAMPP<BR>
  SERVIDORES<BR>
  HOSPEDAGEM.<BR>
- <h3>Por me apaixenei por tecnologia ? </h3>
- Desde de criança sempre gostei de desenvolver meu raciocínio resolver desafios, por tal motivo  sou fascinado em exatas, nesse contexto
+ <h3>Por que  me apaixenei por tecnologia ? </h3>
+ Desde de criança sempre gostei de desenvolver meu raciocínio  seja através de : Dama,cubo mágico,cruzadinha.Por tal motivo sou fascinado em exatas, nesse contexto
  quando entrei em contato com a programação e vi as diversas coisas que posso fazer com a programação usando meu raciocínio como mecanismo de
  criação eu acabei me apaixonando.
 -<i>Apaixonado por tecnologias;💻<br><br></i>
@@ -54,9 +54,10 @@
  <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
  <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
  
- 
-
-
 <i>"Se eu vi mais longe,foi por estar sobre ombros de  Gigantes."Isaac  Newton</i>
+ <hr>
+ <h1>Redes Socias:</h1><br>
+ [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianoalessandro/)
+ [! [blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.instagram.com/alessandroju3/)
 
 
