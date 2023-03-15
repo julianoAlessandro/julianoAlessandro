@@ -1,6 +1,6 @@
-##Prazer meu nome é juliano Alessandro dos Santos☕<br><br>
+##<h1>Prazer meu nome é juliano Alessandro dos Santos☕<br><br></h1>
 <p>
- <h3>História 📚</h3>
+ <h2>História 📚</h2>
  Meu contato com a tecnolgoia foi algo recente, no período de 2021 ,quando estava cursando Física na UFSCAR, acabei me deparando 
  com a matéria de Física computacional, no qual acabei estudando um pouco de lógica de Programação e foi a partir desse momento que comecei a
  me afastar do mundo acadêmico e me aproximei mais da tecnolgia,por fim decidi voltar  para a minha cidade natal,itapira.Quando voltei iniciei
@@ -11,16 +11,16 @@
  XAMPP<BR>
  SERVIDORES<BR>
  HOSPEDAGEM.<BR>
- <h3>Por que  me apaixenei por tecnologia ? </h3>
+ <h2>Por que  me apaixenei por tecnologia ? 🤔</h2>
  Desde de criança sempre gostei de desenvolver meu raciocínio  seja através de : Dama,cubo mágico,cruzadinha.Por tal motivo sou fascinado em exatas, nesse contexto
  quando entrei em contato com a programação e vi as diversas coisas que posso fazer com a programação usando meu raciocínio como mecanismo de
- criação eu acabei me apaixonando.
+ criação eu acabei me apaixonando.<br>
 -<i>Apaixonado por tecnologias;💻<br><br></i>
 -<i>Formado em Programador Web,pelo SENAC<br><br></i>
 -<i>Cursando DSM(Desenvolvimento de  Software multiplataforma).🖥️<br><br><i>
  
  <hr>
-  <b><h1>TRABALHOS E PROJETOS 🧑‍💼</h1></b>
+  <b><h2>TRABALHOS E PROJETOS 🧑‍💼</h2></b>
   <p>Atualmente estou desenvolvendo um projeto com colegas de equipe para a construção de um software Robusto para a Fatec, inicialmente o trabalho se 
     encontra desenvolvido  na parte front end ,sendo o desenvolvimento de caputras de dados do usuario para o Banco de dados será neste  semestre.</p>
  <hr>
