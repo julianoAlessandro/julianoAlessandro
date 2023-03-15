@@ -2,6 +2,7 @@
 -<i>Apaixonado por tecnologias;💻<br><br></i>
 -<i>Formado em Programador Web,pelo SENAC<br><br></i>
 -<i>Cursando DSM(Desenvolvimento de  Software multiplataforma).🖥️<br><br><i>
+ 
  <hr>
   <b><h1>TRABALHOS E PROJETOS 🧑‍💼</h1></b>
   <p>Atualmente estou desenvolvendo um projeto com colegas de equipe para a construção de um software Robusto para a Fatec, inicialmente o trabalho se 
@@ -23,14 +24,16 @@
 
 ![julianoAlessandro GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoAlessandro&show_icons=true&theme=radical)]
  
+ <hr>
   
 
-###<b><i>Tecnologias usadas no meu Dia a Dia</i></b><br>
-<img  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><br>
+###<b><i>Formações🔍📖</i></b><br>
+<img  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
-<img  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"><br>
+<img  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ 
 
 
 <i>"Se eu vi mais longe,foi por estar sobre ombros de  Gigantes."Isaac  Newton</i>
