@@ -27,9 +27,9 @@
   <b><h2>EXPERIÊNCIAS</h2></b>
    <i> Comecei um estágio na empresa Mindware,aqui da minha cidade em geral os principais serviços desenvolvidos são:</i><br>
  <ul>
- <li> <b>Suporte ao usuario, com o auxilio dos colegas de serviço estou aprendendo como resolver os problemas informados pelo usuario, ou seja prestando a manutenção do Software</b><br></li>
- <li> <b>Manipulação do banco de dados da empresa, recebendo pedidos do cliente para alterar adicionar ou modificar determinado dado</b><br></li>
-  <li><b>Estou sendo instruido pelo meu Supervisor para desenvovler habilidades com JAVA, através de poder visualizar a esturtura de daods do  Programa desenvolvido e tirar qualquer duvida a respeito do assunto.</b><br></li>
+ <li> <b>Suporte ao usuário, com o auxilio dos colegas de serviço estou aprendendo como resolver os problemas informados pelos usuarios, ou seja prestando a manutenção do Software  desenvolvido pela Empresa.</b><br></li>
+ <li> <b>Manipulação do banco de dados da empresa, recebendo pedidos de clientes para alterar adicionar ou modificar determinado dado,além de prestar serviços para a empresa a respeito dos principais problemas que ocorrem  no sistema da Empresa.</b><br></li>
+  <li><b>Estou sendo instruido pelo meu Supervisor para desenvovler habilidades com JAVA, através de poder visualizar a esturtura de dados do  Programa desenvolvido e tirar qualquer duvida a respeito do assunto com o meu supervisor e com os colegas de serviço.</b><br></li>
  </ul>
   
   
@@ -56,8 +56,4 @@
  
 <i>"Se eu vi mais longe,foi por estar sobre ombros de  Gigantes."Isaac  Newton</i>
  <hr>
- <h1>Redes Socias:</h1><br>
- [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/julianoalessandro/)]
- [! [blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.instagram.com/alessandroju3/)
-
 
