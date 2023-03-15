@@ -1,4 +1,20 @@
-##Prazer meu nome é juliano☕<br><br>
+##Prazer meu nome é juliano Alessandro dos Santos☕<br><br>
+<p>
+ <h3>História</h3>
+ Meu contato com a tecnolgoia foi algo recente, no período de 2021 ,quando estava cursando Física na UFSCAR, acabei me deparando 
+ com a matéria de Física computacional, no qual acabei estudando um pouco de lógica de Programação e foi a partir desse momento que comecei a
+ me afastar do mundo acadêmico e me aproximei mais da tecnolgia,por fim decidi voltar  para a minha cidade natal,itapira.Quando voltei iniciei
+ um  curso de programador Web ,pela instituição SENAC,nesse curso de 3 meses de duração acabei aprendendo sobre alguns assuntos sendo eles:
+ HTML<BR>
+ CSS3<BR>
+ BANCO DE DADOS RELACIONAL<BR>
+ XAMPP<BR>
+ SERVIDORES<BR>
+ HOSPEDAGEM.<BR>
+ <h3>Por me apaixenei por tecnologia ? </h3>
+ Desde de criança sempre gostei de desenvolver meu raciocínio resolver desafios, por tal motivo  sou fascinado em exatas, nesse contexto
+ quando entrei em contato com a programação e vi as diversas coisas que posso fazer com a programação usando meu raciocínio como mecanismo de
+ criação eu acabei me apaixonando.
 -<i>Apaixonado por tecnologias;💻<br><br></i>
 -<i>Formado em Programador Web,pelo SENAC<br><br></i>
 -<i>Cursando DSM(Desenvolvimento de  Software multiplataforma).🖥️<br><br><i>
@@ -13,7 +29,7 @@
  <ul>
  <li> <b>Suporte ao usuario, com o auxilio dos colegas de serviço estou aprendendo como resolver os problemas informados pelo usuario, ou seja prestando a manutenção do Software</b><br></li>
  <li> <b>Manipulação do banco de dados da empresa, recebendo pedidos do cliente para alterar adicionar ou modificar determinado dado</b><br></li>
-  <li><b>Estou sendo instruido pelo meu Supervisor para desenvovler habilidades com JAVA, através de poder visualizar a esturtura de daods do  Programa desenvolvido e tirar qualquer duvida a respeito do assunto</b><br></li>
+  <li><b>Estou sendo instruido pelo meu Supervisor para desenvovler habilidades com JAVA, através de poder visualizar a esturtura de daods do  Programa desenvolvido e tirar qualquer duvida a respeito do assunto.</b><br></li>
  </ul>
   
   
