@@ -1,4 +1,4 @@
-##<h1>Prazer meu nome é juliano Alessandro dos Santos☕<br><br></h1>
+<h1>Prazer meu nome é juliano Alessandro dos Santos☕✋😀<br><br></h1>
 <p>
  <h2>História 📚</h2>
  Meu contato com a tecnolgoia foi algo recente, no período de 2021 ,quando estava cursando Física na UFSCAR, acabei me deparando 
