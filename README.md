@@ -57,7 +57,7 @@
 <i>"Se eu vi mais longe,foi por estar sobre ombros de  Gigantes."Isaac  Newton</i>
  <hr>
  <h1>Redes Socias:</h1><br>
- [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianoalessandro/)
+ [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/julianoalessandro/)]
  [! [blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.instagram.com/alessandroju3/)
 
 
