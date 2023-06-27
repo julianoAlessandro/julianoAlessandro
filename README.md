@@ -1,6 +1,6 @@
 <h1>Prazer meu nome é juliano Alessandro dos Santos☕✋😀<br><br></h1>
 <p>
- <img src= "https://user-images.githubusercontent.com/111141842/230748206-b867511b-7840-46eb-b06c-089ef30c1594.jpg">
+ <img src= "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489">
  <h2>História 📚</h2>
  Meu contato com a tecnolgoia foi algo recente, no período de 2021 ,quando estava cursando Física na UFSCAR, acabei me deparando 
  com a matéria de Física computacional, no qual acabei estudando um pouco de lógica de Programação e foi a partir desse momento que comecei a
