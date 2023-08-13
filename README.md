@@ -12,6 +12,7 @@
  XAMPP<BR>
  SERVIDORES<BR>
  HOSPEDAGEM.<BR>
+  <hr>
  <h2>Por que  me apaixenei por tecnologia ? 🤔</h2>
  Desde de criança sempre gostei de desenvolver meu raciocínio  seja através de : Dama,cubo mágico,cruzadinha.Por tal motivo sou fascinado em exatas, nesse contexto
  quando entrei em contato com a programação e vi as diversas coisas que posso fazer com a programação usando meu raciocínio como mecanismo de
@@ -26,12 +27,13 @@
     encontra desenvolvido  na parte front end ,sendo o desenvolvimento de caputras de dados do usuario para o Banco de dados será neste  semestre.</p>
  <hr>
   <b><h2>EXPERIÊNCIAS</h2></b>
-   <i> Comecei um estágio na empresa Mindware,aqui da minha cidade em geral os principais serviços desenvolvidos são:</i><br>
+   <i> Finalizei um estágio na empresa Mindware,aqui da minha cidade em geral os principais serviços desenvolvidos são:</i><br>
  <ul>
  <li> <b>Suporte ao usuário, com o auxilio dos colegas de serviço estou aprendendo como resolver os problemas informados pelos usuarios, ou seja prestando a manutenção do Software  desenvolvido pela Empresa.</b><br></li>
  <li> <b>Manipulação do banco de dados da empresa, recebendo pedidos de clientes para alterar adicionar ou modificar determinado dado,além de prestar serviços para a empresa a respeito dos principais problemas que ocorrem  no sistema da Empresa.</b><br></li>
   <li><b>Estou sendo instruido pelo meu Supervisor para desenvovler habilidades com JAVA, através de poder visualizar a esturtura de dados do  Programa desenvolvido e tirar qualquer duvida a respeito do assunto com o meu supervisor e com os colegas de serviço.</b><br></li>
  </ul>
+
   
   
   
