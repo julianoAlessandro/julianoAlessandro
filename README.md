@@ -1,62 +1,45 @@
-<h1>Prazer meu nome é juliano Alessandro dos Santos☕✋😀<br><br></h1>
-<p>
-  <img align="center" height="300px" alt="coding-time" src="code.gif" margin-top="100px">
- <h2>História 📚</h2>
- Meu contato com a tecnolgoia foi algo recente, no período de 2021 ,quando estava cursando Física na UFSCAR, acabei me deparando 
- com a matéria de Física computacional, no qual acabei estudando um pouco de lógica de Programação e foi a partir desse momento que comecei a
- me afastar do mundo acadêmico e me aproximei mais da tecnolgia,por fim decidi voltar  para a minha cidade natal,itapira.Quando voltei iniciei
- um  curso de programador Web ,pela instituição SENAC,nesse curso de 3 meses de duração acabei aprendendo sobre alguns assuntos sendo eles:<br>
- HTML<BR>
- CSS3<BR>
- BANCO DE DADOS RELACIONAL<BR>
- XAMPP<BR>
- SERVIDORES<BR>
- HOSPEDAGEM.<BR>
-  <hr>
- <h2>Por que  me apaixenei por tecnologia ? 🤔</h2>
- Desde de criança sempre gostei de desenvolver meu raciocínio  seja através de : Dama,cubo mágico,cruzadinha.Por tal motivo sou fascinado em exatas, nesse contexto
- quando entrei em contato com a programação e vi as diversas coisas que posso fazer com a programação usando meu raciocínio como mecanismo de
- criação eu acabei me apaixonando.<br>
--<i>Apaixonado por tecnologias;💻<br><br></i>
--<i>Formado em Programador Web,pelo SENAC<br><br></i>
--<i>Cursando DSM(Desenvolvimento de  Software multiplataforma).🖥️<br><br><i>
- 
- <hr>
-  <b><h2>TRABALHOS E PROJETOS 🧑‍💼</h2></b>
-  <p>Atualmente estou desenvolvendo um projeto com colegas de equipe para a construção de um software Robusto para a Fatec, inicialmente o trabalho se 
-    encontra desenvolvido  na parte front end ,sendo o desenvolvimento de caputras de dados do usuario para o Banco de dados será neste  semestre.</p>
- <hr>
-  <b><h2>EXPERIÊNCIAS</h2></b>
-   <i> Finalizei um estágio na empresa Mindware,aqui da minha cidade em geral os principais serviços desenvolvidos são:</i><br>
- <ul>
- <li> <b>Suporte ao usuário, com o auxilio dos colegas de serviço estou aprendendo como resolver os problemas informados pelos usuarios, ou seja prestando a manutenção do Software  desenvolvido pela Empresa.</b><br></li>
- <li> <b>Manipulação do banco de dados da empresa, recebendo pedidos de clientes para alterar adicionar ou modificar determinado dado,além de prestar serviços para a empresa a respeito dos principais problemas que ocorrem  no sistema da Empresa.</b><br></li>
-  <li><b>Estou sendo instruido pelo meu Supervisor para desenvovler habilidades com JAVA, através de poder visualizar a esturtura de dados do  Programa desenvolvido e tirar qualquer duvida a respeito do assunto com o meu supervisor e com os colegas de serviço.</b><br></li>
- </ul>
+# Prazer, meu nome é Juliano Alessandro dos Santos ☕✋😀
 
-  
-  
-  
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianoalessandro/)
+## SOBRE 🧑
+Meu nome é Juliano Alessandro dos Santos e recentemente conquistei minha primeira vaga como Programador Júnior na empresa Flua System. Atualmente, estou cursando o 3º período de Desenvolvimento de Software Multiplataforma na Fatec de Itapira, além de estar desenvolvendo um projeto de iniciação científica para a faculdade.
 
-[![Tecnologias  usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoAlessandro&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+## EXPERIÊNCIA PROFISSIONAL 🧑‍💼
+- **Programador Júnior** (Ago de 2023 - Atualmente)
+  - *Objetivo:* Responsável por realizar a manutenção do sistema e prestar suporte ao banco de dados da empresa.
+  - *Atribuições:* SQL Server, NoCode, JAVA, MongoDB, API, Linux, arquivos JSON e XML.
+  - *Empresa:* Flua System
 
-![julianoAlessandro GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoAlessandro&show_icons=true&theme=radical)]
- 
- <hr>
-  
+- **Analista de Suporte ao Usuário** (Fevereiro de 2023 - Maio de 2023)
+  - *Objetivo:* Responsável por realizar o Suporte Humanizado aos Clientes.
+  - *Atribuições:* Comunicação oral, treinamento ao Cliente sobre o Sistema, utilização do ANYDESK, Banco de Dados Relacional.
+  - *Empresa:* Mindware Informática
 
-###<b><i>Formações🔍📖</i></b><br>
-<img  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <hr>
- 
-###<b><i>Em processo de formação👨‍💻</i></b><br>
- <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
- <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+## PROJETOS 🧪🔬
+### Título do Projeto: *Explorando Padrões do Comércio Exterior da Região de Itapira: Uma Análise Baseada em Dados.*
+Neste 3º semestre da faculdade, estarei realizando um projeto em Ciência de Dados com o objetivo de:
+- Coletar e extrair dados relacionados às importações e exportações da região de Itapira.
+- Realizar uma análise descritiva dos dados extraídos.
+- Aplicar técnicas estatísticas e de mineração de dados.
+- Desenvolver visualizações interativas dos dados.
 
-<i>"Se eu vi mais longe,foi por estar sobre ombros de  Gigantes."Isaac  Newton</i>
- <hr>
+## HISTÓRIA 📜
+Meu primeiro contato com a tecnologia aconteceu recentemente, em 2021, quando estava cursando Física na UFSCAR. Fui introduzido ao mundo da programação por meio da disciplina de Física Computacional. Foi nesse momento que comecei a me distanciar do ambiente acadêmico e a me aproximar do universo da tecnologia. Decidi então retornar à minha cidade natal, Itapira.
 
+Ao regressar, dei início a um curso de programação web no SENAC, com duração de três meses. Durante esse curso, adquiri conhecimentos em diversas áreas, incluindo:
+- HTML
+- CSS3
+- Banco de Dados Relacional
+- XAMPP
+- Servidores
+- Hospedagem
+
+Essa experiência me permitiu ampliar minha compreensão sobre a tecnologia e me preparou para adentrar mais profundamente nesse campo empolgante.
+
+## MINHA PAIXÃO POR TECNOLOGIA 😍
+Desde a infância, sempre fui fascinado pelo desenvolvimento do meu raciocínio, seja através de jogos como Dama, cubo mágico ou cruzadinhas. Esse interesse precoce pelas habilidades lógicas me atraiu para o mundo das exatas. No entanto, foi quando tive meu primeiro contato com a programação que percebi as inúmeras possibilidades que ela oferece para aplicar meu raciocínio como ferramenta de criação, e foi aí que minha paixão se consolidou. Posso dizer que esse amor só cresceu quando me encontrei na área de Ciência de Dados.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianoalessandro/)
+
+[![Tecnologias Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoAlessandro&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+![Juliano Alessandro GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoAlessandro&show_icons=true&theme=radical)
