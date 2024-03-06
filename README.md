@@ -1,7 +1,8 @@
 # Prazer, meu nome é Juliano Alessandro dos Santos ☕✋😀
 
 ## SOBRE 🧑
-Meu nome é Juliano Alessandro dos Santos e recentemente conquistei minha primeira vaga como Programador Júnior na empresa Flua System. Atualmente, estou cursando o 3º período de Desenvolvimento de Software Multiplataforma na Fatec de Itapira, além de estar desenvolvendo um projeto de iniciação científica para a faculdade.
+Meu nome é Juliano Alessandro dos Santos e recentemente conquistei minha primeira vaga como Programador Júnior na empresa Flua System. Atualmente, estou cursando o 4º período de Desenvolvimento de Software Multiplataforma na Fatec de Itapira, além de estar desenvolvendo um projeto de iniciação científica  na área de Ciência de Dados, realziando a raspagem dos
+dados com python juntamente com o lambda, com isso limpando os dados na AWS.
 
 ## EXPERIÊNCIA PROFISSIONAL 🧑‍💼
 - **Programador Júnior** (Ago de 2023 - Atualmente)
