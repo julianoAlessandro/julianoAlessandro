@@ -41,6 +41,25 @@ Em seguida, uma função **AWS Lambda** processou e transferiu os arquivos para 
 Posteriormente, um **AWS Crawler** mapeou os dados, que foram processados no **AWS Glue** via ETL e, por fim, encaminhados ao **Power BI** para análise.
 
 🔗 [Link do artigo](https://zenodo.org/records/14563514)
+## Tecnologias
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-009639?style=flat&logo=Pentaho&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+## Ambiente de Desenvolvimento
+
+![NetBeans](https://img.shields.io/badge/NetBeans-0071C5?style=flat&logo=apache-netbeans&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-008A5B?style=flat&logo=microsoft&logoColor=white)
 
 
 ## 🌐 LINKS IMPORTANTES
