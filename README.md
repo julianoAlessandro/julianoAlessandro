@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/87a9a57f-41fc-4619-bac3-14e4a00d1bb5)
+![Image](https://github.com/user-attachments/assets/b96bebe1-00c6-4d9d-abd5-135284a18071)
 
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
