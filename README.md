@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <title>Imagem Reduzida</title>
   <style>
     .minha-imagem {
-      width: 300px;    /* largura fixa que você quiser */
+      width: 180px;    /* largura fixa que você quiser */
       height: auto;    /* altura ajusta proporcionalmente */
     }
   </style>
