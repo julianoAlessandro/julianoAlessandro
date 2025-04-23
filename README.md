@@ -1,5 +1,10 @@
 # Prazer, meu nome é Juliano Alessandro dos Santos ☕✋😀
 
+## 🧑 SOBRE MIM  
+Sou Juliano Alessandro dos Santos e recentemente atuei como Programador Júnior na **Flua System**. Estou cursando o 4º período de **Desenvolvimento de Software Multiplataforma** na **Fatec de Itapira** e desenvolvendo um projeto de **iniciação científica** na área de **Ciência de Dados**, focado em raspagem de dados com **Python** e **AWS Lambda**, além de limpeza e tratamento de dados na **AWS**.
+
+---
+
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
 ### 📊 Técnico de BI — *CTC*  
@@ -22,9 +27,7 @@
 
 ---
 
----
-
-## 🔬 PROJETOS INICIAÇÕES CIENTÍFICAS REALIZADAS
+## 🔬 PROJETOS
 
 ### 1️⃣ *Explorando Padrões no Comércio Exterior da Região de Itapira: um Projeto em Engenharia de Dados*  
 📊💡📈  
@@ -44,11 +47,31 @@ Posteriormente, um **AWS Crawler** mapeou os dados, que foram processados no **A
 
 🔗 [Link do artigo](https://zenodo.org/records/14563514)
 
+---
 
-## 🌐 LINKS
+## 🕒 Linha do Tempo Profissional & Acadêmica
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianoalessandro/)
+- 🔍 **Jul 2024 - Mar 2025**  
+  Técnico de BI na **CTC**  
+  *Power BI, SQL, Pentaho, Jira, Excel, Python*
 
-[![Tecnologias Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoAlessandro&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+- 👨‍💻 **Set 2023 - Abr 2024**  
+  Programador Júnior na **Flua System**  
+  *SQL Server, NoCode, Java, MongoDB, APIs, Linux*
 
-![Juliano Alessandro GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoAlessandro&show_icons=true&theme=radical)
+- 📊 **Ago 2023 - Nov 2023**  
+  Projeto: *Desvendando o ENADE*  
+  *AWS Lambda, Glue, Crawler, Power BI*  
+  🔗 [Artigo](https://zenodo.org/records/14563514)
+
+- 🧪 **Mai 2023 - Ago 2023**  
+  Projeto: *Explorando Padrões no Comércio Exterior*  
+  *Python, SQL Server, Power BI*  
+  🔗 [Artigo](https://zenodo.org/records/13363294)
+
+- 👨‍🔧 **Fev 2023 - Mai 2023**  
+  Analista de Suporte ao Usuário na **Mindware Informática**  
+  *Suporte técnico, treinamento, Anydesk, banco de dados*
+
+- 🎓 **2021 - Atualmente**  
+  Graduação em **Desenvolvimento de Software Multiplataforma** - Fate
