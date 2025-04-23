@@ -5,7 +5,7 @@
   <title>Imagem Reduzida</title>
   <style>
     .minha-imagem {
-      width: 400px;    /* largura fixa que você quiser */
+      width: 300px;    /* largura fixa que você quiser */
       height: auto;    /* altura ajusta proporcionalmente */
     }
   </style>
