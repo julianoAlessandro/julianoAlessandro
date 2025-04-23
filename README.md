@@ -1,43 +1,51 @@
 # Prazer, meu nome é Juliano Alessandro dos Santos ☕✋😀
 
-## SOBRE 🧑
-Meu nome é Juliano Alessandro dos Santos e recentemente conquistei minha primeira vaga como Programador Júnior na empresa Flua System. Atualmente, estou cursando o 4º período de Desenvolvimento de Software Multiplataforma na Fatec de Itapira, além de estar desenvolvendo um projeto de iniciação científica  na área de Ciência de Dados, realziando a raspagem dos
-dados com python juntamente com o lambda, com isso limpando os dados na AWS.
+## 💼 EXPERIÊNCIA PROFISSIONAL
 
-## EXPERIÊNCIA PROFISSIONAL 🧑‍💼
-- **Programador Júnior** (Ago de 2023 - Atualmente)
-  - *Objetivo:* Responsável por realizar a manutenção do sistema e prestar suporte ao banco de dados da empresa.
-  - *Atribuições:* SQL Server, NoCode, JAVA, MongoDB, API, Linux, arquivos JSON e XML.
-  - *Empresa:* Flua System
+### 📊 Técnico de BI — *CTC*  
+📅 *Julho de 2024 – Março de 2025*  
+- Gerenciamento e manutenção de relatórios com **Power BI**  
+- Validação e execução de consultas avançadas no banco de dados com **SQL**  
+- Limpeza e extração de dados utilizando **Excel**, **Python** e **Pentaho**  
+- Acompanhamento e controle de tarefas via **Jira Server**  
+- Participação em reuniões e condução de treinamentos com clientes através do **Microsoft Teams**
 
-- **Analista de Suporte ao Usuário** (Fevereiro de 2023 - Maio de 2023)
-  - *Objetivo:* Responsável por realizar o Suporte Humanizado aos Clientes.
-  - *Atribuições:* Comunicação oral, treinamento ao Cliente sobre o Sistema, utilização do ANYDESK, Banco de Dados Relacional.
-  - *Empresa:* Mindware Informática
+### 👨‍💻 Programador Júnior — *Flua System*  
+📅 *Setembro de 2023 – Abril de 2024*  
+- Manutenção de sistemas e suporte a banco de dados.  
+- Tecnologias: SQL Server, NoCode, Java, MongoDB, APIs, Linux, arquivos JSON e XML.
 
-## PROJETOS 🧪🔬
-### Título do Projeto: *Explorando Padrões do Comércio Exterior da Região de Itapira: Uma Análise Baseada em Dados.*
-Neste 3º semestre da faculdade, estarei realizando um projeto em Ciência de Dados com o objetivo de:
-- Coletar e extrair dados relacionados às importações e exportações da região de Itapira.
-- Realizar uma análise descritiva dos dados extraídos.
-- Aplicar técnicas estatísticas e de mineração de dados.
-- Desenvolver visualizações interativas dos dados.
+### 🛠️ Analista de Suporte ao Usuário — *Mindware Informática*  
+📅 *Fevereiro de 2023 – Maio de 2023*  
+- Suporte humanizado aos clientes e treinamentos sobre o sistema.  
+- Ferramentas: Anydesk, bancos de dados relacionais, comunicação oral e escrita.
 
-## HISTÓRIA 📜
-Meu primeiro contato com a tecnologia aconteceu recentemente, em 2021, quando estava cursando Física na UFSCAR. Fui introduzido ao mundo da programação por meio da disciplina de Física Computacional. Foi nesse momento que comecei a me distanciar do ambiente acadêmico e a me aproximar do universo da tecnologia. Decidi então retornar à minha cidade natal, Itapira.
+---
 
-Ao regressar, dei início a um curso de programação web no SENAC, com duração de três meses. Durante esse curso, adquiri conhecimentos em diversas áreas, incluindo:
-- HTML
-- CSS3
-- Banco de Dados Relacional
-- XAMPP
-- Servidores
-- Hospedagem
+---
 
-Essa experiência me permitiu ampliar minha compreensão sobre a tecnologia e me preparou para adentrar mais profundamente nesse campo empolgante.
+## 🔬 PROJETOS INICIAÇÕES CIENTÍFICAS REALIZADAS
 
-## MINHA PAIXÃO POR TECNOLOGIA 😍
-Desde a infância, sempre fui fascinado pelo desenvolvimento do meu raciocínio, seja através de jogos como Dama, cubo mágico ou cruzadinhas. Esse interesse precoce pelas habilidades lógicas me atraiu para o mundo das exatas. No entanto, foi quando tive meu primeiro contato com a programação que percebi as inúmeras possibilidades que ela oferece para aplicar meu raciocínio como ferramenta de criação, e foi aí que minha paixão se consolidou. Posso dizer que esse amor só cresceu quando me encontrei na área de Ciência de Dados.
+### 1️⃣ *Explorando Padrões no Comércio Exterior da Região de Itapira: um Projeto em Engenharia de Dados*  
+📊💡📈  
+O intuito do projeto foi coletar diversos arquivos CSVs presentes no site do Governo que estavam separados, sem nenhuma relação entre eles.  
+Utilizei o **Python** para fazer a raspagem desses dados. Com os arquivos em mãos, realizei transformações nos dados e os subi para o **SQL Server**, criando os devidos relacionamentos.  
+Por fim, exportei essa base de dados para o **Power BI**, permitindo uma compreensão mais aprofundada das informações.  
+
+🔗 [Link do artigo](https://zenodo.org/records/13363294)
+
+---
+
+### 2️⃣ *Desvendando o ENADE: Uma Análise Abrangente dos Dados e Resultados dos Cursos Superiores*  
+📊💡📈  
+O trabalho consistiu na extração de dados de um site do governo, disponibilizados em arquivos ZIP. Após a extração, os dados foram armazenados em buckets da **AWS**.  
+Em seguida, uma função **AWS Lambda** processou e transferiu os arquivos para outro bucket.  
+Posteriormente, um **AWS Crawler** mapeou os dados, que foram processados no **AWS Glue** via ETL e, por fim, encaminhados ao **Power BI** para análise.
+
+🔗 [Link do artigo](https://zenodo.org/records/14563514)
+
+
+## 🌐 LINKS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianoalessandro/)
 
