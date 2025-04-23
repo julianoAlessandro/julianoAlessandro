@@ -1,4 +1,3 @@
-# Prazer, meu nome é Juliano Alessandro dos Santos ☕✋😀
 <p align="center">
   <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" 
        alt="Coding GIF" 
