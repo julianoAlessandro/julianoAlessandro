@@ -1,18 +1,4 @@
-  <style>
-    .minha-imagem {
-      width: 180px;    /* largura fixa que você quiser */
-      height: auto;    /* altura ajusta proporcionalmente */
-    }
-  </style>
-</head>
-<body>
-  <img
-    class="minha-imagem"
-    src="https://github.com/user-attachments/assets/b7308f43-b86c-4396-9c8e-e95f3ef8a151"
-    alt="Cyborg anime"
-  />
-</body>
-</html>
+![Image](https://github.com/user-attachments/assets/87a9a57f-41fc-4619-bac3-14e4a00d1bb5)
 
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
