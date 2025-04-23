@@ -1,4 +1,7 @@
-![Descrição da Imagem](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1nNm9zOGw4OHp0OTZqbDd0ODZnM3RscjJ5MHlwMXZrNjk1YmtucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NlaTQ4eXVwcmpreHIzY2ZsMHY0Mmtyb2RneXFtNDR0aXNjbXNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF animado" width="400"/>
+</p>
+
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
