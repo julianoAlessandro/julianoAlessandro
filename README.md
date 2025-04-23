@@ -1,9 +1,8 @@
 # Prazer, meu nome é Juliano Alessandro dos Santos ☕✋😀
+<p align="center">
+  <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Coding GIF" />
+</p>
 
-## 🧑 SOBRE MIM  
-Sou Juliano Alessandro dos Santos e recentemente atuei como Programador Júnior na **Flua System**. Estou cursando o 4º período de **Desenvolvimento de Software Multiplataforma** na **Fatec de Itapira** e desenvolvendo um projeto de **iniciação científica** na área de **Ciência de Dados**, focado em raspagem de dados com **Python** e **AWS Lambda**, além de limpeza e tratamento de dados na **AWS**.
-
----
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
