@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" 
-       alt="Coding GIF" 
-       width="560"/>
-</p>
+![Image](https://github.com/user-attachments/assets/b7308f43-b86c-4396-9c8e-e95f3ef8a151)
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
