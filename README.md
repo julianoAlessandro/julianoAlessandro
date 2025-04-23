@@ -1,6 +1,3 @@
-![Image](https://github.com/user-attachments/assets/dc4df925-9ba0-451d-b32e-a92aa82be384)
-
-
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
 ### 📊 Técnico de BI — *CTC*  
