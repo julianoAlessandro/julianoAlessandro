@@ -1,11 +1,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" 
        alt="Coding GIF" 
-       width="400"/>
+       width="560"/>
 </p>
-
-
-
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
@@ -27,9 +24,9 @@
 - Suporte humanizado aos clientes e treinamentos sobre o sistema.  
 - Ferramentas: Anydesk, bancos de dados relacionais, comunicação oral e escrita.
 
----
 
-## 🔬 PROJETOS
+
+## 🔬🧪PROJETOS DE INICIAÇÃO CIENTÍFICA
 
 ### 1️⃣ *Explorando Padrões no Comércio Exterior da Região de Itapira: um Projeto em Engenharia de Dados*  
 📊💡📈  
@@ -39,7 +36,6 @@ Por fim, exportei essa base de dados para o **Power BI**, permitindo uma compree
 
 🔗 [Link do artigo](https://zenodo.org/records/13363294)
 
----
 
 ### 2️⃣ *Desvendando o ENADE: Uma Análise Abrangente dos Dados e Resultados dos Cursos Superiores*  
 📊💡📈  
@@ -49,31 +45,23 @@ Posteriormente, um **AWS Crawler** mapeou os dados, que foram processados no **A
 
 🔗 [Link do artigo](https://zenodo.org/records/14563514)
 
----
 
-## 🕒 Linha do Tempo Profissional & Acadêmica
+## 🌐 LINKS IMPORTANTES
 
-- 🔍 **Jul 2024 - Mar 2025**  
-  Técnico de BI na **CTC**  
-  *Power BI, SQL, Pentaho, Jira, Excel, Python*
-
-- 👨‍💻 **Set 2023 - Abr 2024**  
-  Programador Júnior na **Flua System**  
-  *SQL Server, NoCode, Java, MongoDB, APIs, Linux*
-
-- 📊 **Ago 2023 - Nov 2023**  
-  Projeto: *Desvendando o ENADE*  
-  *AWS Lambda, Glue, Crawler, Power BI*  
-  🔗 [Artigo](https://zenodo.org/records/14563514)
-
-- 🧪 **Mai 2023 - Ago 2023**  
-  Projeto: *Explorando Padrões no Comércio Exterior*  
-  *Python, SQL Server, Power BI*  
-  🔗 [Artigo](https://zenodo.org/records/13363294)
-
-- 👨‍🔧 **Fev 2023 - Mai 2023**  
-  Analista de Suporte ao Usuário na **Mindware Informática**  
-  *Suporte técnico, treinamento, Anydesk, banco de dados*
-
-- 🎓 **2021 - Atualmente**  
-  Graduação em **Desenvolvimento de Software Multiplataforma** - Fate
+<p align="center">
+  <a href="https://www.youtube.com/@julianoalessandro435" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+      alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/programacao_em_evidencia/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white" 
+      alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/julianoalessandro/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn">
+  </a>
+</p>
