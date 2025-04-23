@@ -1,4 +1,24 @@
-![Image](https://github.com/user-attachments/assets/b7308f43-b86c-4396-9c8e-e95f3ef8a151)
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Imagem Reduzida</title>
+  <style>
+    .minha-imagem {
+      width: 400px;    /* largura fixa que você quiser */
+      height: auto;    /* altura ajusta proporcionalmente */
+    }
+  </style>
+</head>
+<body>
+  <img
+    class="minha-imagem"
+    src="https://github.com/user-attachments/assets/b7308f43-b86c-4396-9c8e-e95f3ef8a151"
+    alt="Cyborg anime"
+  />
+</body>
+</html>
+
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 
