@@ -62,6 +62,10 @@ Posteriormente, um **AWS Crawler** mapeou os dados, que foram processados no **A
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-008A5B?style=flat&logo=microsoft&logoColor=white)
+<span style="background-color:#F9F107; color:#000; padding:4px 8px; border-radius:5px; font-weight:bold;">
+⚡ Google Colab
+</span>
+
 
 
 ## 🌐 LINKS IMPORTANTES
