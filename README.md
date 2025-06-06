@@ -68,6 +68,17 @@ Posteriormente, um **AWS Crawler** mapeou os dados, que foram processados no **A
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-24292E?style=flat&logo=github&logoColor=white)
 
+## Ferramentas de Gestão de Projetos
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7612FA?style=flat&logo=clickup&logoColor=white)
+
+## Ferramentas de Interação com o Cliente
+
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-7B83EB?style=flat&logo=microsoft-teams&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=flat&logo=anydesk&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)
+
 
 
 
